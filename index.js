@@ -12,7 +12,7 @@ client.once(Events.ClientReady, readyClient => {
 	console.log(`Ready! Logged in as ${readyClient.user.tag}`);
     client.user.setActivity(`${serverip}`, { type: 4});
     client.user.setStatus('dnd');
-    const channel = client.channels.cache.get('1036918993849684008');
+    const channel = client.channels.cache.get('channelid-here');
     channel.send(`Bot & Ngrok Online, Check my Status for the IP. \nRemove the tcp:// on the url \n\n${serverip}`);
 });})();
 client.login(token);
