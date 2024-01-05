@@ -15,7 +15,7 @@
 
 * Hosting your own minecraft server but having difficulties port forwarding? Then this bot is for you!
 
-* This Bot Automatically Port forwards for you, In 19 Lines Only!
+* This Bot Automatically Port forwards for you, In 18 Lines Only!
 
 * Automatically Sends IP in a specified channel
 
